@@ -7,7 +7,7 @@ This repository aims at summing up in the same place all the important notions t
 ## Content
 #### VIP Cheatsheets
 <a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/cheatsheet-reflex-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence//blob/master/cheatsheet-states-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence//blob/master/cheatsheet-variables-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence//blob/master/cheatsheet-logic-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png?" alt="Illustration" width="220px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Reflex &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; States &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Variables &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Logic
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Reflex-based models &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; States-based models &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Variables-based models &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Logic-based models
 
 
 #### Super VIP Cheatsheet
