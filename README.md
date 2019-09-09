@@ -1,4 +1,6 @@
 # Artificial Intelligence cheatsheets for Stanford's CS 221
+Available in [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) -  [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr)
+
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 221 Artificial Intelligence course, and include:
 - **Cheatsheets** for each **artificial intelligence field**
@@ -6,7 +8,7 @@ This repository aims at summing up in the same place all the important notions t
 
 ## Content
 #### VIP Cheatsheets
-<a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/cheatsheet-reflex-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-reflex.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-states-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-states.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-variables-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-variables.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-logic-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-logic.png?" alt="Illustration" width="220px"/></a>
+<a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-reflex-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-reflex.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-states-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-states.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-variables-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-variables.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/en/cheatsheet-logic-models.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-logic.png?" alt="Illustration" width="220px"/></a>
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Reflex-based models &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; States-based models &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Variables-based models &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Logic-based models
 
 
