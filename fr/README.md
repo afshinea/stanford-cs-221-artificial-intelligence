@@ -1,5 +1,5 @@
 # Pense-bêtes d'intelligence artificielle pour CS 221 de Stanford
-Disponible en [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) -  [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr)
+Disponible en [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) - [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr) - [Türkçe](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/tr)
 
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours d'intelligence artificielle (CS 221) de Stanford, et inclut en particulier :
@@ -12,7 +12,7 @@ Ce repo a pour but de résumer toutes les notions importantes du cours d'intelli
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Réflex &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; États &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Variables &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Logique
 
 
-#### Site
+#### Super Pense-bête VIP
 <a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/fr/super-pense-bete-intelligence-artificielle.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet-artificial-intelligence.png?" alt="Illustration" width="400px"/></a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tous les concepts rassemblés à un seul endroit
 
 ## Site
