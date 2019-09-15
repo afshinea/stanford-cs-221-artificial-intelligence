@@ -1,5 +1,5 @@
 # Artificial Intelligence cheatsheets for Stanford's CS 221
-Available in [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) -  [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr)
+Available in [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) - [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr) - [Türkçe](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/tr)
 
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 221 Artificial Intelligence course, and include:
