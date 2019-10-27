@@ -9,7 +9,7 @@ Içinde mevcut [English](https://github.com/afshinea/stanford-cs-221-artificial-
 
 
 #### El Kitabı Super VIP
-<a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/tr/super-cheatsheet-artificial-intelligence.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-221/illustrations/cover/tr-005.png?" alt="Illustration" width="400px"/></a>
+<a href="https://github.com/afshinea/stanford-cs-221-artificial-intelligence/blob/master/tr/super-cheatsheet-artificial-intelligence.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-221/illustrations/cover/tr-005.png#1" alt="Illustration" width="400px"/></a>
 
 ## Yazarlar
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) ve [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
