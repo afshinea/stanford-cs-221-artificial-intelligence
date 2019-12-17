@@ -1,5 +1,5 @@
 # Pense-bêtes d'intelligence artificielle pour CS 221 de Stanford
-Disponible en [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) - [Français](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr) - [Türkçe](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/tr)
+Disponible en [English](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/en) - [**Français**](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/fr) - [Türkçe](https://github.com/afshinea/stanford-cs-221-artificial-intelligence/tree/master/tr)
 
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours d'intelligence artificielle (CS 221) de Stanford, et inclut en particulier :
